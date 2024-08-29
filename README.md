@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y5Y7s5uSQk)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=pigmeu200&show_icons=true&theme=tokyonight&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=021Vicente-dev&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
