@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Ryan Vicente, conhecido como Vicente.dev 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-undefined-35b4a6326/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6zvKwSTxPQ)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-vicente-35b4a6326/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=021Vicente-dev&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -27,7 +25,6 @@
 ## Tecnologias que estou aprendendo 
  <img align="center" alt="mysql" src="https://img.shields.io/badge/Mysql-43853D?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-e3e3e3?style=for-the-badge&logo=mongodb&logoColor=green" />
- <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-bf7afa?style=for-the-badge&logo=php&logoColor=921ef7" />
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação e disposto a aprender mais e mais.
