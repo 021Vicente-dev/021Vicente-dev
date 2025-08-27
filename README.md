@@ -18,7 +18,7 @@
     <br/>
     <br/>
   <img align="center" alt="reactnative" src="https://img.shields.io/badge/React.Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=FFA500" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Java&logoColor=#FFA500" />
 
 
 ## Tecnologias que estou aprendendo 
